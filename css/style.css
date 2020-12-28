@@ -48,27 +48,6 @@ a:link, a:visited, a:hover, a:active {
   background: url('../images/bg-header.gif') repeat-x;
   box-shadow: 0 0 10px 1px #e3e3e3;
 }
-.wrapper {
-  width: 970px;
-  margin: 30px auto 40px; 
-}
-.main {
-  display: block;
-  float: left;
-  width: 660px;
-}
-.sidemenu {
-  float: right;
-  width: 275px;
-}
-.footer {
-  width: 100%; 
-}
-.clearfix::after {
-  content: '';
-  display: block;
-  clear: both;
-}
 .logo {
   width: 225px;
   height: 56px;
